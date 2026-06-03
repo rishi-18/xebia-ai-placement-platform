@@ -12,6 +12,7 @@
 * Identified and documented key platform features.
 * Defined core functionalities for Students, Recruiters, TPOs, and Administrators.
 * Contributed to feature requirement gathering and functional scope definition.
+* Developed detailed User Stories and Acceptance Criteria for all platform roles.
 
 ### Non-Technical Contributions
 
