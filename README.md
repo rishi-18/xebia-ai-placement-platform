@@ -87,9 +87,9 @@ This repository contains the planning and analysis documents prepared during the
 | `Stakeholder_Analysis.docx` | Analysis of stakeholders, goals, pain points, and engagement strategies                      |
 | `PRD.md`                    | Product Requirements Document defining project scope, objectives, features, and requirements |
 | `Users.md`                  | Team member contributions and responsibilities                                               |
-| `Feature_Prioritization.md` | MoSCoW-based feature prioritization (if applicable)                                          |
-| `Wireframes.md`             | UI wireframes and screen layouts (if applicable)                                             |
-| `User_Stories.md`           | User stories derived from stakeholder requirements (if applicable)                           |
+| `Feature_Prioritization.md` | MoSCoW-based feature prioritization                                                          |
+| `Wireframes.md`             | UI wireframes and screen layouts                                                             |
+| `User_Stories.md`           | User stories derived from stakeholder requirements                                           |
 
 ---
 
